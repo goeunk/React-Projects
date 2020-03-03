@@ -21,3 +21,12 @@
 ### Redux?
 --> Independent third-party library
 
+### Component basics
+React will call render() method to render something to the screen. </br>
+Every React Component has to return or render some html code which can be rendered to the DOM to the screen.
+
+### Creating a Functional Component
+Start with a capital letter for your component files. </br>
+A component is just a function which returns some jsx, some html.
+
+
